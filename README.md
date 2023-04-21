@@ -21,7 +21,7 @@ In order for company growth to take place the churn rate, the percentage of subc
 
 3. Exploratory Data Analysis
 
-4. Feature engineer
+4. Preprocess Data
 
 5. Model Creation & Optimization
 
@@ -106,5 +106,27 @@ Customers who churn most commonly complain about a billing problem followed by c
 More silver plan customers churn compared to gold plan customers.
 
 <img width="942" alt="Screenshot 2023-04-20 153333" src="https://user-images.githubusercontent.com/85320743/233501676-e5633c8b-a098-4c79-8b0a-d447745b6fcc.png">
+
+The majority of customers who churn have an "average number of days delinquent" ranging from 17 to 21 days.
+
+### Preprocess the Data
+
+Convert Object dtypes to Categorical dtypes
+
+Split the data into dependent (y) and independent variables (x)
+
+Split data into training and testing data sets for the supervised machine learning model.
+
+Scale and transform the x data using the Standard Scaler function
+
+- Discription of standard scaler function
+
+<img width="770" alt="image" src="https://user-images.githubusercontent.com/85320743/233514192-1f636524-6d1b-4fc6-a9f8-39410ed335fe.png">
+
+### Modeling
+
+Base Model
+
+
 
 
