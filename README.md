@@ -150,7 +150,7 @@ Before we discuss the performance of each model, lets discuss how we filtered th
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/85320743/233738523-28fbde4f-448a-46bf-9df2-62e9b7c31e1a.png">
 
-Using a Random Forest Classifier algorithm and 7 key metrics, the model obtained a 80% accuracy score, the highest among the four models. 
+***Using a Random Forest Classifier algorithm and 7 key metrics, the model obtained a 80% accuracy score, the highest among the four models.*** 
 
 This fairly accurate model can help the telecommunication company to  increase its revenue by prediciting potential customers who might churn and market them to stay. This is possible by reducing the rate of existing customers churning to less than the rate of new customers joining, thus growing the total population of customers and increase spending on company goods/services, thereby increasing revenue. The flow below further describes this point.
 
@@ -159,9 +159,9 @@ existing customers churning < new customers joining => Inceased Customer Populat
 ## Factors for Churn: 
 
 The three most important features in predicting customer churn are the 
-- "average amount of days the account is deliquent"
-- "percent increase of Month over Month"
-- "average amount of calls made during the weekdays"
+- average amount of days the account is deliquent
+- percent increase of Month over Month
+- average amount of calls made during the weekdays
 
 Understanding these factors of churn can also help the marketing team use their budget wisely to target potential churners. 
 
