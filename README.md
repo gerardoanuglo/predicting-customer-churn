@@ -15,7 +15,7 @@ In order for company growth to take place the churn rate, the percentage of subc
 
 ### Seudo Steps
 
-1. [Load in data](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#load-in-data)
+1. [Load in data](https://github.com/gerardoanuglo/predicting-customer-churn/blob/main/README.md#load-in-data)
 
 2. [Clean data](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#cleaning-data)
 
