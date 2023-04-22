@@ -25,7 +25,7 @@ In order for company growth to take place the churn rate, the percentage of subc
 
 5. [Modeling](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#modeling)
 
-6. [Results](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#model-performance)
+6. [Results](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#results)
 
 ### Load in Data
 
