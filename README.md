@@ -83,8 +83,7 @@ The graphs "Avg_Days_Delinquent", "Current_Bill_Amt", and "Avg_Calls_Weekday" ar
 
 #### Average Metrics for Customers who Churned 
 
-0 = Not Churned
-1 = Churned
+0 = Not Churned | 1 = Churned
 
 <img width="817" alt="image" src="https://user-images.githubusercontent.com/85320743/233489437-87337fa7-54b4-4aca-b89e-21f5ec74e37e.png">
 
