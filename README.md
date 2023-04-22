@@ -19,13 +19,13 @@ In order for company growth to take place the churn rate, the percentage of subc
 
 2. [Clean data](https://github.com/gerardoanuglo/predicting-customer-churn/blob/main/README.md#cleaning-data)
 
-3. [Exploratory Data Analysis](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#exploratory-data-analysis)
+3. [Exploratory Data Analysis](https://github.com/gerardoanuglo/predicting-customer-churn/blob/main/README.md#exploratory-data-analysis)
 
-4. [Preprocess Data](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#preprocess-the-data)
+4. [Preprocess Data](https://github.com/gerardoanuglo/predicting-customer-churn/blob/main/README.md#preprocess-the-data)
 
-5. [Modeling](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#modeling)
+5. [Modeling](https://github.com/gerardoanuglo/predicting-customer-churn/blob/main/README.md#modeling)
 
-6. [Results](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#results)
+6. [Results](https://github.com/gerardoanuglo/predicting-customer-churn/blob/main/README.md#results)
 
 ### Load in Data
 
