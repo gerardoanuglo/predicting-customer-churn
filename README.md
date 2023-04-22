@@ -15,17 +15,17 @@ In order for company growth to take place the churn rate, the percentage of subc
 
 ### Seudo Steps
 
-1. Load in data
+1. [Load in data](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#load-in-data)
 
-2. Clean data
+2. [Clean data](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#cleaning-data)
 
-3. Exploratory Data Analysis
+3. [Exploratory Data Analysis](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#exploratory-data-analysis)
 
-4. Preprocess Data
+4. [Preprocess Data](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#preprocess-the-data)
 
-5. Model Creation & Optimization
+5. [Modeling](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#modeling)
 
-6. Interpret Results & Give Recommendations
+6. [Results](https://github.com/gerardoanuglo/predicting-customer-churn/edit/main/README.md#model-performance)
 
 ### Load in Data
 
@@ -166,5 +166,5 @@ The three most important features in predicting customer churn are the
 Understanding these factors of churn can also help the marketing team use their budget wisely to target potential churners. 
 
 ## Main Point 
-Predicting Customer Churn in a telecommunication company is important because it can help prevent or mitigate the amount of churn and increase revenue by retaining customers with an effective marketing strategy that emphasizes solutions towards the most common factors of customer churn. 
+Predicting Customer Churn in a telecommunication company is important because it can increase revenue by retaining customers with an effective marketing strategy that emphasizes solutions towards the most common factors for customer churn. 
 
