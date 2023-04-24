@@ -155,7 +155,7 @@ This fairly accurate model can help the telecommunication company to  increase i
 
 existing customers churning < new customers joining => Inceased Customer Population => Increased Revenue => Increased Profit
 
-## Factors for Churn: 
+## Identifiers for Churn: 
 
 The three most important features in predicting customer churn are the 
 - average amount of days the account is deliquent
