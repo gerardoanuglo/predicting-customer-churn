@@ -164,6 +164,3 @@ The three most important features in predicting customer churn are the
 
 Understanding these factors of churn can also help the marketing team use their budget wisely to target potential churners. 
 
-## Main Point 
-Predicting Customer Churn in a telecommunication company is important because it can increase revenue by retaining customers with an effective marketing strategy that emphasizes solutions towards the most common factors for customer churn. 
-
