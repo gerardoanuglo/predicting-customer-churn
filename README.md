@@ -15,17 +15,17 @@ In order for company growth to take place the churn rate, the percentage of subc
 
 ### Seudo Steps
 
-1. Load in data
+1. [Load in data](https://github.com/gerardoanuglo/predicting-customer-churn/blob/main/README.md#load-in-data)
 
-2. Clean data
+2. [Clean data](https://github.com/gerardoanuglo/predicting-customer-churn/blob/main/README.md#cleaning-data)
 
-3. Exploratory Data Analysis
+3. [Exploratory Data Analysis](https://github.com/gerardoanuglo/predicting-customer-churn/blob/main/README.md#exploratory-data-analysis)
 
-4. Preprocess Data
+4. [Preprocess Data](https://github.com/gerardoanuglo/predicting-customer-churn/blob/main/README.md#preprocess-the-data)
 
-5. Model Creation & Optimization
+5. [Modeling](https://github.com/gerardoanuglo/predicting-customer-churn/blob/main/README.md#modeling)
 
-6. Interpret Results & Give Recommendations
+6. [Results](https://github.com/gerardoanuglo/predicting-customer-churn/blob/main/README.md#results)
 
 ### Load in Data
 
@@ -83,8 +83,7 @@ The graphs "Avg_Days_Delinquent", "Current_Bill_Amt", and "Avg_Calls_Weekday" ar
 
 #### Average Metrics for Customers who Churned 
 
-0 = Not Churned
-1 = Churned
+0 = Not Churned | 1 = Churned
 
 <img width="817" alt="image" src="https://user-images.githubusercontent.com/85320743/233489437-87337fa7-54b4-4aca-b89e-21f5ec74e37e.png">
 
@@ -146,7 +145,7 @@ Before we discuss the performance of each model, lets discuss how we filtered th
 
 <img width="644" alt="image" src="https://user-images.githubusercontent.com/85320743/233737738-5d65fd06-1a5f-4449-b7af-c6c11c0f3521.png">
 
-## Model Performance
+## Results
 
 <img width="428" alt="image" src="https://user-images.githubusercontent.com/85320743/233738523-28fbde4f-448a-46bf-9df2-62e9b7c31e1a.png">
 
@@ -156,7 +155,7 @@ This fairly accurate model can help the telecommunication company to  increase i
 
 existing customers churning < new customers joining => Inceased Customer Population => Increased Revenue => Increased Profit
 
-## Factors for Churn: 
+## Identifiers for Churn: 
 
 The three most important features in predicting customer churn are the 
 - average amount of days the account is deliquent
@@ -164,7 +163,4 @@ The three most important features in predicting customer churn are the
 - average amount of calls made during the weekdays
 
 Understanding these factors of churn can also help the marketing team use their budget wisely to target potential churners. 
-
-## Main Point 
-Predicting Customer Churn in a telecommunication company is important because it can help prevent or mitigate the amount of churn and increase revenue by retaining customers with an effective marketing strategy that emphasizes solutions towards the most common factors of customer churn. 
 
